@@ -4,7 +4,7 @@
 
   <groupId>com.wizzdi</groupId>
   <artifactId>flexicore-service-archetype</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
   <name>flexicore-service-archetype</name>
   <description>archetype for flexicore service plugins</description>
@@ -36,7 +36,7 @@
     <connection>scm:git:git://wizzdi/flexicore-service-archetype.git</connection>
     <developerConnection>scm:git:git@github.com:wizzdi/flexicore-service-archetype.git</developerConnection>
     <url>https://github.com/wizzdi/flexicore-service-archetype</url>
-    <tag>flexicore-service-archetype-1.0.0</tag>
+    <tag>flexicore-service-archetype-${version}</tag>
   </scm>
 
   <distributionManagement>
