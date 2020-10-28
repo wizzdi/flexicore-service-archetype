@@ -3,7 +3,6 @@
 #set( $symbol_escape = '\' )
 package ${package};
 
-import com.flexicore.example.person.Person;
 import com.flexicore.model.Baseclass;
 import com.flexicore.test.EntityProviderClasses;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
